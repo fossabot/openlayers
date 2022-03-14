@@ -48,6 +48,7 @@ OpenLayers appreciates contributions of all kinds.  We especially want to thank 
 <br>
 
 [![Pozi logo](./sponsor-logos/pozi.png)](https://pozi.com/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinifor%2Fopenlayers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinifor%2Fopenlayers?ref=badge_shield)
 
 > Pozi helps connect communities through spatial thinking.
 > We love Openlayers and it forms a core part of our platform.
@@ -123,3 +124,7 @@ Please see our guide on [contributing](CONTRIBUTING.md) if you're interested in 
 - Follow [@openlayers](https://twitter.com/openlayers) on Twitter
 
 ![Test Status](https://github.com/openlayers/openlayers/workflows/Test/badge.svg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjinifor%2Fopenlayers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjinifor%2Fopenlayers?ref=badge_large)
